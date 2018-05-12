@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39431
     wikipedia: http://en.wikipedia.org/wiki/Richard_Carlile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38372#The-Character-Of-The-Jew-BooksKings-and-Priests-or-Tyrants-and-Impostors
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
